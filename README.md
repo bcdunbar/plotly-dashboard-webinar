@@ -55,7 +55,7 @@ Plotly has numerous APIs, including:
 
 ## 1. Data
 
-To get started, head to Plotly’s [Chart Studio](https://plot.ly/create/) and add your data. You have the option of typing directly in the grid, uploading your file, or entering a URL of an online dataset. For this tutorial, we'll use the Zika Cases dataset from the Pan American Health organization. To begin, simply view the [dataset](https://plot.ly/~bdun9/2521/) and click **'Fork & Edit'**. The Chart Studio ought to open and you're all set to go.
+To get started, head to Plotly’s [Chart Studio](https://plot.ly/create/) and add your data. You have the option of typing directly in the grid, uploading your file, or entering a URL of an online dataset. For this tutorial, we'll use the World Happiness Dataset from the Sustainable Development Solutions Network. To begin, simply view the [dataset](https://plot.ly/~bdun9/2521/) and click **'Fork & Edit'**. The Chart Studio ought to open and you're all set to go.
 
 ![Fork and Edit](/images/choropleth/fork-and-edit.png)
 
