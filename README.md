@@ -16,7 +16,7 @@
 
 ## Crowdcast Webinar
 
-Link coming soon!
+Click here to watch the [Crowdcast Webinar](https://www.crowdcast.io/e/using-excel-to-generate)
 
 ## Plotcon Workshops
 
